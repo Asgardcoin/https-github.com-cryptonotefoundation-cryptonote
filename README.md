@@ -1,0 +1,2 @@
+# https-github.com-cryptonotefoundation-cryptonote
+This is the basic repository to be able to start the cryptourrency creation by crytonote I will leave a link so that they have na more detailed information of the steps to create it to start the project is needed  Buy one or two Ubuntu-based dedicated servers (at least 2GB of RAM) for seed nodes.  Something that I do not have available but if someone can offer it would be the starter engine of the project
